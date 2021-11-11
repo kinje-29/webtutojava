@@ -1,0 +1,13 @@
+h1{
+    display: flex;
+    color: black;
+    background-color: chartreuse;
+}
+
+.menubar li{
+    background-color: chocolate;
+    width: 100px;
+    height: 100px;
+    text-align-last: center;
+    align-items: center;
+}
